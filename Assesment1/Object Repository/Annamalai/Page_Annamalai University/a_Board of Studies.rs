@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Board of Studies</name>
+   <tag></tag>
+   <elementGuidId>222b7b1e-3776-4de5-959e-ab5afbfd369b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Board of Studies&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c4bf89a8-7007-46dc-adb5-210d06d8d788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>boardofstudies/S02BOS.pdf</value>
+      <webElementGuid>0dec9033-c75f-4c63-bd30-383d94efa7a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>new</value>
+      <webElementGuid>e228b4b6-3c91-4c3c-82a4-59f5e57bf687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Board of Studies</value>
+      <webElementGuid>34dc7242-b6be-4219-ad30-111f071b41bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-menu&quot;)/li[5]/a[1]</value>
+      <webElementGuid>9169365c-da80-44dd-a75a-cf626ca6f978</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li[5]/a</value>
+      <webElementGuid>ba351302-a837-4110-8dd2-39d5d70341c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Board of Studies')]</value>
+      <webElementGuid>478e5055-1abd-4d41-acc7-c6f4a2bb9d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programmes Offered'])[1]/following::a[1]</value>
+      <webElementGuid>88423475-d49c-41bb-bd4c-d7c5656c795e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statistics'])[1]/following::a[2]</value>
+      <webElementGuid>17fffb7b-4ff0-439f-b55e-2659c217976a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faculty Members'])[1]/preceding::a[1]</value>
+      <webElementGuid>b7529d14-e1f4-4296-8ef9-2ffdedf6ae4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facilities'])[1]/preceding::a[2]</value>
+      <webElementGuid>211ac805-22b7-478b-a004-9d794787622b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Board of Studies']/parent::*</value>
+      <webElementGuid>e898aaf2-983f-45a2-9b4c-6d52608cb2ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'boardofstudies/S02BOS.pdf')]</value>
+      <webElementGuid>8c26702e-2543-4101-9a83-9c3c5643f846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>700c755e-d381-466c-98c5-4cf128334102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'boardofstudies/S02BOS.pdf' and (text() = ' Board of Studies' or . = ' Board of Studies')]</value>
+      <webElementGuid>23bbcf39-da2f-4ac0-9974-98db00e58da4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

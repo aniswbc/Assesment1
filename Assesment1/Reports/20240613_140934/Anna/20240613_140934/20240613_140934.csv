@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Anna,Chrome 125.0.0.0,,,13-06-2024 14:09,13-06-2024 14:11,1m - 40.374s,PASSED
+,,,,,,,
+Test Cases/Annamalai,Chrome 125.0.0.0,,,13-06-2024 14:09,13-06-2024 14:10,50.181s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:09,13-06-2024 14:09,1.839s,PASSED
+"navigateToUrl(""https://annamalaiuniversity.ac.in/index.php"")",Chrome 125.0.0.0,,,13-06-2024 14:09,13-06-2024 14:10,12.476s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,5.727s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Science""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,7.543s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Statistics""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,2.039s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Programmes Offered""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,1.043s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Board of Studies""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,0.331s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Facilities""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,3.424s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Untitled Document/a_Activities""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,2.905s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Untitled Document/a_Hand Book  Syllabus""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,9.015s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_M.Sc. Statistics (Five-Year) Programme (R_ea16e3""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,2.012s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,1.541s,PASSED
+,,,,,,,
+Test Cases/Annamalai,Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:11,50.011s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,0.796s,PASSED
+"navigateToUrl(""https://annamalaiuniversity.ac.in/index.php"")",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,12.152s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:10,6.147s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Science""))",Chrome 125.0.0.0,,,13-06-2024 14:10,13-06-2024 14:11,8.993s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Statistics""))",Chrome 125.0.0.0,,,13-06-2024 14:11,13-06-2024 14:11,2.176s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Programmes Offered""))",Chrome 125.0.0.0,,,13-06-2024 14:11,13-06-2024 14:11,0.914s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Board of Studies""))",Chrome 125.0.0.0,,,13-06-2024 14:11,13-06-2024 14:11,0.341s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_Facilities""))",Chrome 125.0.0.0,,,13-06-2024 14:11,13-06-2024 14:11,4.028s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Untitled Document/a_Activities""))",Chrome 125.0.0.0,,,13-06-2024 14:11,13-06-2024 14:11,2.805s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Untitled Document/a_Hand Book  Syllabus""))",Chrome 125.0.0.0,,,13-06-2024 14:11,13-06-2024 14:11,8.290s,PASSED
+"click(findTestObject(""Object Repository/Annamalai/Page_Annamalai University/a_M.Sc. Statistics (Five-Year) Programme (R_ea16e3""))",Chrome 125.0.0.0,,,13-06-2024 14:11,13-06-2024 14:11,1.759s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:11,13-06-2024 14:11,1.574s,PASSED

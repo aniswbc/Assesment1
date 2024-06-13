@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Anna" time="100.374" tests="2" failures="0" errors="0">
+   <testsuite name="Anna" tests="2" failures="0" errors="0" time="100.374" skipped="0" timestamp="13-06-2024T14:09:46" hostname="HP - DESKTOP-HFMI2MJ" id="Test Suites/Anna">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\HP\\Katalon Studio\\Assesment1\\Reports\\20240613_140934\\Anna\\20240613_140934"/>
+         <property name="logFiles" value="C:\\Users\\HP\\Katalon Studio\\Assesment1\\Reports\\20240613_140934\\Anna\\20240613_140934\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="HP - DESKTOP-HFMI2MJ"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="f5204d62b59a3dde98cb0ae606ed2876"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Annamalai" time="50.181" classname="Test Cases/Annamalai" status="PASSED">
+         <system-out><![CDATA[13-06-2024T14:09:46 - [TEST_CASE][PASSED] - Test Cases/Annamalai: Test Cases/Annamalai
+
+13-06-2024T14:09:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-06-2024T14:09:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-06-2024T14:09:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-06-2024T14:09:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-06-2024T14:09:48 - [TEST_STEP][PASSED] - navigateToUrl("https://annamalaiuniversity.ac.in/index.php"): Navigate to 'https://annamalaiuniversity.ac.in/index.php' successfully
+
+13-06-2024T14:10:01 - [MESSAGE][PASSED] - Navigate to 'https://annamalaiuniversity.ac.in/index.php' successfully
+
+13-06-2024T14:10:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Academics")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Academics' is clicked on
+
+13-06-2024T14:10:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Academics' is clicked on
+
+13-06-2024T14:10:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Science")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Science' is clicked on
+
+13-06-2024T14:10:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Science' is clicked on
+
+13-06-2024T14:10:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Statistics")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Statistics' is clicked on
+
+13-06-2024T14:10:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Statistics' is clicked on
+
+13-06-2024T14:10:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Programmes Offered")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Programmes Offered' is clicked on
+
+13-06-2024T14:10:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Programmes Offered' is clicked on
+
+13-06-2024T14:10:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Board of Studies")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Board of Studies' is clicked on
+
+13-06-2024T14:10:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Board of Studies' is clicked on
+
+13-06-2024T14:10:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Facilities")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Facilities' is clicked on
+
+13-06-2024T14:10:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Facilities' is clicked on
+
+13-06-2024T14:10:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Untitled Document/a_Activities")): Object: 'Object Repository/Annamalai/Page_Untitled Document/a_Activities' is clicked on
+
+13-06-2024T14:10:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Untitled Document/a_Activities' is clicked on
+
+13-06-2024T14:10:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Untitled Document/a_Hand Book  Syllabus")): Object: 'Object Repository/Annamalai/Page_Untitled Document/a_Hand Book  Syllabus' is clicked on
+
+13-06-2024T14:10:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Untitled Document/a_Hand Book  Syllabus' is clicked on
+
+13-06-2024T14:10:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_M.Sc. Statistics (Five-Year) Programme (R_ea16e3")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_M.Sc. Statistics (Five-Year) Programme (R_ea16e3' is clicked on
+
+13-06-2024T14:10:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_M.Sc. Statistics (Five-Year) Programme (R_ea16e3' is clicked on
+
+13-06-2024T14:10:35 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-06-2024T14:10:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Annamalai" time="50.011" classname="Test Cases/Annamalai" status="PASSED">
+         <system-out><![CDATA[13-06-2024T14:10:36 - [TEST_CASE][PASSED] - Test Cases/Annamalai: Test Cases/Annamalai
+
+13-06-2024T14:10:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-06-2024T14:10:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-06-2024T14:10:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-06-2024T14:10:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-06-2024T14:10:37 - [TEST_STEP][PASSED] - navigateToUrl("https://annamalaiuniversity.ac.in/index.php"): Navigate to 'https://annamalaiuniversity.ac.in/index.php' successfully
+
+13-06-2024T14:10:49 - [MESSAGE][PASSED] - Navigate to 'https://annamalaiuniversity.ac.in/index.php' successfully
+
+13-06-2024T14:10:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Academics")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Academics' is clicked on
+
+13-06-2024T14:10:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Academics' is clicked on
+
+13-06-2024T14:10:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Science")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Science' is clicked on
+
+13-06-2024T14:11:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Science' is clicked on
+
+13-06-2024T14:11:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Statistics")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Statistics' is clicked on
+
+13-06-2024T14:11:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Statistics' is clicked on
+
+13-06-2024T14:11:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Programmes Offered")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Programmes Offered' is clicked on
+
+13-06-2024T14:11:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Programmes Offered' is clicked on
+
+13-06-2024T14:11:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Board of Studies")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Board of Studies' is clicked on
+
+13-06-2024T14:11:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Board of Studies' is clicked on
+
+13-06-2024T14:11:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_Facilities")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Facilities' is clicked on
+
+13-06-2024T14:11:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_Facilities' is clicked on
+
+13-06-2024T14:11:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Untitled Document/a_Activities")): Object: 'Object Repository/Annamalai/Page_Untitled Document/a_Activities' is clicked on
+
+13-06-2024T14:11:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Untitled Document/a_Activities' is clicked on
+
+13-06-2024T14:11:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Untitled Document/a_Hand Book  Syllabus")): Object: 'Object Repository/Annamalai/Page_Untitled Document/a_Hand Book  Syllabus' is clicked on
+
+13-06-2024T14:11:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Untitled Document/a_Hand Book  Syllabus' is clicked on
+
+13-06-2024T14:11:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Annamalai/Page_Annamalai University/a_M.Sc. Statistics (Five-Year) Programme (R_ea16e3")): Object: 'Object Repository/Annamalai/Page_Annamalai University/a_M.Sc. Statistics (Five-Year) Programme (R_ea16e3' is clicked on
+
+13-06-2024T14:11:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Annamalai/Page_Annamalai University/a_M.Sc. Statistics (Five-Year) Programme (R_ea16e3' is clicked on
+
+13-06-2024T14:11:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-06-2024T14:11:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-06-2024T14:09:46 - [TEST_SUITE][PASSED] - Anna: Test Cases/Annamalai]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
